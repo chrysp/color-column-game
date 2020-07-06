@@ -2,4 +2,4 @@
 
 Six-level color matching game
 
-Live site - [http://chrysp.github.io/color-column-game](http://chrysp.github.io/color-column-game)
+Live site - [https://chrysp.github.io/color-column-game](https://chrysp.github.io/color-column-game)
